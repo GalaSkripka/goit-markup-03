@@ -1,0 +1,297 @@
+@import "./_fonts.css";
+@import "./_norm.alise.css";
+
+body {
+    font-family: 'Roboto', sans-serif; 
+    /* font-family: 'Raleway', sans-serif; */
+}
+
+.hero-section {
+    background-color: #2F303A;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.section {
+    padding: 50px 0;
+}
+.section-two {
+    background-color: #E5E5E5;
+    padding: 25px 0;
+}
+
+.title {
+    background: #2F303A;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    max-width: 696px;
+    font-size: 44px;
+    line-height: 1.364;
+    padding-top: 200px;
+    /* padding-bottom: 30px; */
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.hero-button {
+    color: #FFFFFF;
+    background-color: #2196f3;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin-top: 30px;  */
+    margin-bottom: 200px;
+   text-align: center;
+}
+
+.text-one {
+    color: #2196f3 ;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+}
+.span {
+    color: #212121;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.site-item {
+    display: inline-block;
+    margin-left: 50px;
+    /* padding-left: 215px; */
+}
+.main-nav {
+    display: inline-block;
+    /* padding: 32px 215px 32px 215px; */
+
+}
+.site-list
+
+.text-nav {
+    color: #2196f3 ;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.site-nav:hover {
+    color: #2196f3;
+}
+
+.site-nav {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #212121;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.tell {
+    color: #757575;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+}
+.contact-info:hover {
+color: #2196f3;
+}
+
+.container {
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+.container-two {
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+    background-color: #f5f4fa;
+}
+
+.contact-info {
+    color: #757575 ;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+}
+
+button {
+    background-color: #2196f3;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+.buttons {
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.button-two {
+    background-color: #F5F4FA;
+    color: #212121;
+}
+.button-two:hover {
+    background-color: #2196f3;
+    color: #E5E5E5;
+}
+.menu {
+    color: #212121;
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.menu-p {
+    color: #757575;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.site-menu {
+    display: inline-block;
+    margin-left: 50px;
+}
+.images {
+    margin-left: 20px;
+    /* padding: 50px 215px 215px 180px; */
+    padding-top: 50px;
+    padding-bottom: 180px;
+}
+.menu-title {
+    color: #212121;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+}
+.card {
+    display: inline-block;
+    background-color: #FFFFFF;
+    width: 270px;
+    margin-left: 20px;
+}
+.card-footer {
+    background-color: #FFFFFF;
+    color: #212121;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+}
+
+.card-title {
+    color: #212121;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+}
+.card-text {
+    color: #757575;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px; 
+    text-align: center;
+    margin-bottom: 30px;
+}
+.card-one {
+    display: inline-block;
+    background-color: #FFFFFF;
+    width: 370px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+.name {
+    color: #212121;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    margin-left: 20px;
+}
+.p {
+    color: #757575;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px; 
+}
+
+.menu-link{
+    color: #212121;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.card-title-section {
+    color: #212121;
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.card-text-section {
+    color: #757575;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.address {
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    margin-left: 215px;
+    padding-top: 60px;
+    padding-bottom: 160px;
+}
+
+.span-foot {
+    color: #FFFFFF;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.contact-link {
+    color: rgba(255, 255, 255, 0.6);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    /* margin-top: 10px; */
+    margin: 0 20px 0 0;
+}
+ 
+  li {
+      margin-top: 10px;
+  }
+  
+.footer {
+   background-color:#2F303A; 
+   border-bottom: 0px solid;
+   margin-top: 100px;
+}
+
+/* цвет основного текста #212121  */
+/* вторичный цвет #757575 */
+/* белый #FFFFFF */
+/* вторичный белый #FFFFFF 60% */
+/* акцент #2196F3 */
+/* вторичный цвет фона  #E5E5E5 */
+
